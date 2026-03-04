@@ -1,6 +1,6 @@
 <div>
 
-<table>
+
 <tr>
  <td align="center"><img align="center" alt="oficinas" src="https://github.com/user-attachments/assets/2f1196bf-3e75-47fc-8ff0-12df424f3ae0"/></td>
 </tr>
@@ -8,7 +8,7 @@
  
 
 </tr>
-</table>
+
 
 </div>
 
