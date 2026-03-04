@@ -13,10 +13,10 @@
 
 ----
 
-<div>
+<div align="center">
 <table>
 <tr>
- 
+ <td align="center" colspan="11"></td>
 </tr> 
 <tr>
 <!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
@@ -52,5 +52,5 @@
 </div>
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>João Victor</code>, tenho 21 anos, moro em BH e sou programador desde os 19 anos de idade. Atualmente sou <code>estudante</code> no cursos de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:
+<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 35 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://aramuni.dev/">aramuni.dev</a>
 </div>
