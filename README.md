@@ -13,10 +13,10 @@
 
 ----
 
-<div align="center">
+<div>
 <table>
 <tr>
- <td align="center" colspan="11"></td>
+ 
 </tr> 
 <tr>
 <!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
