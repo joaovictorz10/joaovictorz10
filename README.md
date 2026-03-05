@@ -54,28 +54,44 @@
 
 
 <div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Um pouco sobre mim:
+
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td width="500px" >
+<div align="justify">
+<p> 
+ 
+- :mortar_board: Atualmente estou cursando <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> no <code>4º período</code>.<br />
+
+- :coffee: Estou focando em desenvolvimento web, criando aplicações com Spring Boot, HTML, CSS e JavaScript.<br />
+
+- :rocket: Estou em busca do meu primeiro estágio na área de tecnologia para colocar em prática tudo o que venho aprendendo e ganhar experiência no mercado.<br />
+
+- :video_game: Nas horas vagas, sou fã de jogos online (Counter Strike) e também curto muito acompanhar um bom futebol.<br />
+
+- :computer: Sempre buscando evoluir como desenvolvedor, estruturando projetos próprios e aplicações full-stack do zero.<br />
+
+- :soccer: Atleticano de corpo e alma, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
+
+</p>
+</div>
+</td>
+<td>
 <div>
 <img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="340px" height="650px" />
 </div>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
 
-<img height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
-
-<div align="justify">
-<p>
-- :necktie: &nbsp; Trabalho como Analista de TI há 3 ano.<br />
-- :man_student: &nbsp; Sou estudante de ADS - Análise e Desenvolvimento de Sistemas.<br />
-- :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
-- :soccer:&nbsp; Sou cruzeirense, lógico! 🦊<br />
-- :basketball: &nbsp; Também gosto bastante de basquete/NBA.<br />
-- :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
-- :video_game: &nbsp; Gosto de jogar LOL nas horas vagas.<br />
-- :policeman: &nbsp; Já servi ao exército brasileiro.<br />
-- :parrot: &nbsp; Meu pet é uma cachorrinho rebaixado.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:davidson.afg@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/davidsonfg/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-</p>
-</div>
 </div>
 
 ----
