@@ -68,7 +68,7 @@
  
 - 🎓 Atualmente estou cursando <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> no <code>4º período</code>.<br />
 
-- ☕ Curto java e estou focando em desenvolvimento web, criando aplicações com Spring Boot, HTML, CSS e JavaScript.<br />
+- ☕ Estou focando em desenvolvimento web, criando aplicações com Spring Boot, HTML, CSS e JavaScript.<br />
 
 - 🚀 Estou em busca do meu primeiro estágio na área de tecnologia para colocar em prática tudo o que venho aprendendo e ganhar experiência no mercado.<br />
 
