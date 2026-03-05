@@ -84,8 +84,7 @@
 <td>
 <div>
 <img 
-  alt="GIF" 
-  src="https://github.com/user-attachments/assets/7e2961e5-9304-4f24-a0aa-0f2e3ca8db83"
+  <img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="340px" height="650px" />
   width="340px" 
   height="650px" 
 />
