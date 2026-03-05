@@ -61,7 +61,7 @@
 
 <div>
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Um pouco sobre mim:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
 
 <table>
 <tr>
@@ -71,23 +71,23 @@
 <td width="500px" >
 <div align="justify">
 <p> 
-- :mortar_board: Atualmente estou cursando <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> e estou no <code>4º período</code>.<br />
-- ☕: Gosto muito Java e estou focando em desenvolvimento web, criando aplicações com Spring Boot, HTML, CSS e JavaScript.<br />
-- 🚀 Estou em busca do meu primeiro estágio na área de tecnologia para colocar em prática tudo o que venho aprendendo e ganhar experiência no mercado.<br />
-- :gear: Tenho interesse em bancos de dados, APIs REST, organização de código e boas práticas de desenvolvimento.<br />
-- 🎮: Nas horas vagas, sou fã de jogos online(Counter Strike) e também curto muito acompanhar um bom futebol ⚽.<br />
-- 💻: Sempre buscando evoluir como desenvolvedor, estruturando projetos próprios e aplicações full-stack do zero.<br />
-- :soccer: Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
+- :mortar_board: Atualmente estou cursando <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> no <code>4º período</code>.<br />
+
+- ☕ Curto muito Java e estou focando em desenvolvimento web, criando aplicações com Spring Boot, HTML, CSS e JavaScript.
+
+- 🚀 Estou em busca do meu primeiro estágio na área de tecnologia para colocar em prática tudo o que venho aprendendo e ganhar experiência no mercado.
+
+- 🎮 Nas horas vagas, sou fã de jogos online (sempre tentando fugir do ping alto!) e também curto muito acompanhar um bom futebol ⚽.
+
+- 💻 Sempre buscando evoluir como desenvolvedor, estruturando projetos próprios e aplicações full-stack do zero.
+
+- 💬 Pode me chamar para trocar ideia sobre Java, games, futebol ou tecnologia — adoro uma boa resenha e conhecer gente nova!
 </p>
 </div>
 </td>
 <td>
 <div>
-<img 
-  <img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="340px" height="650px" />
-  width="340px" 
-  height="650px" 
-/>
+<img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="340px" height="650px" />
 </div>
 </td>
 </tr>
