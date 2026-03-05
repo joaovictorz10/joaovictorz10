@@ -58,11 +58,10 @@
 
 ----
 
------
 
 <div>
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Um pouco sobre mim:
 
 <table>
 <tr>
@@ -73,12 +72,12 @@
 <div align="justify">
 <p> 
 - :mortar_board: Atualmente estou cursando <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> e estou no <code>4º período</code>.<br />
-- ☕: Curto muito <code>Java</code> e estou aprofundando meus conhecimentos em lógica, orientação a objetos e desenvolvimento backend.<br />
-- :rocket: Estou em busca do meu <code>primeiro estágio</code> na área de tecnologia para colocar em prática tudo o que venho aprendendo.<br />
+- ☕: Gosto muito Java e estou focando em desenvolvimento web, criando aplicações com Spring Boot, HTML, CSS e JavaScript.<br />
+- 🚀 Estou em busca do meu primeiro estágio na área de tecnologia para colocar em prática tudo o que venho aprendendo e ganhar experiência no mercado.<br />
 - :gear: Tenho interesse em bancos de dados, APIs REST, organização de código e boas práticas de desenvolvimento.<br />
-- 🚗: Sou fanático por <code>carros</code> e gosto de entender como as coisas funcionam — tanto motores quanto sistemas 😄.<br />
-- 📚: Sempre buscando evoluir como desenvolvedor, estudando e desenvolvendo projetos próprios.<br />
-- :speech_balloon: Pode me chamar para conversar sobre Java, tecnologia ou carros — adoro trocar ideia!<br />
+- 🎮: Nas horas vagas, sou fã de jogos online(Counter Strike) e também curto muito acompanhar um bom futebol ⚽.<br />
+- 💻: Sempre buscando evoluir como desenvolvedor, estruturando projetos próprios e aplicações full-stack do zero.<br />
+- :soccer: Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
 </p>
 </div>
 </td>
@@ -99,10 +98,6 @@
 </table>
 
 </div>
-
-
-
------
 
 
 
