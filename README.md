@@ -15,10 +15,12 @@
 -----
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>João</code>, tenho 21 anos e moro em Belo Horizonte. Atualmente sou <code>estudante</code> no cursos de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.
+<i><b>Olá</b> :wave:, sou o <code>João</code>, tenho 21 anos e moro em Belo Horizonte. Atualmente sou <code>estudante</code> no curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.
 </div>
 
+ <div align="justify">
 🌐 Me encontre nas redes sociais aqui embaixo ⬇️
+</div>
 
 <div align="center">
 <table>
