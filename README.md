@@ -71,7 +71,7 @@
 - 🚀 Estou em busca do meu primeiro estágio na área de tecnologia para colocar em prática tudo o que venho aprendendo e ganhar experiência no mercado.<br />
 - 🎮 Nas horas vagas, sou fã de jogos online (Counter Strike) e também curto muito acompanhar um bom futebol.<br />
 - 💻 Sempre buscando evoluir como desenvolvedor, estruturando projetos próprios e aplicações full-stack do zero.<br />
-- ⚽ Atleticano de corpo e alma, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. 🐔<br />
+- :soccer: Atleticano de corpo e alma, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
 </p>
 </div>
 </td>
