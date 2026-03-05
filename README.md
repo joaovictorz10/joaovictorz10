@@ -2,10 +2,11 @@
 
 
 <tr>
- <td align="center"><img align="center" alt="oficinas" src="https://github.com/user-attachments/assets/2f1196bf-3e75-47fc-8ff0-12df424f3ae0"/></td>
+ <td align="center"><img align="center" alt="oficinas" src="https://github.com/user-attachments/assets/4a5557f1-d965-4b1d-a3f1-bf71f5f5325b"/></td>
 </tr>
 <tr>
  
+
 
 </tr>
 
