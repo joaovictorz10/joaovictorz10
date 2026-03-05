@@ -74,7 +74,7 @@
 
 - 🎮 Nas horas vagas, sou fã de jogos online(Counter Strike) também curto muito acompanhar um bom futebol.<br />
 
-- 💻 Sempre buscando evoluir como desenvolvedor, estruturando projetos próprios e aplicações full-stack do zero.<br />
+- 💻 Sempre buscando evoluir como desenvolvedor, estruturando projetos próprios e aplicações full-stack do zero.<br /> 
 
 - :soccer: Atleticano de corpo e alma, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
 </p>
