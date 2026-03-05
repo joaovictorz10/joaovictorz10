@@ -56,6 +56,56 @@
 <i><b>Olá</b> :wave:, sou o <code>João</code>, tenho 21 anos e moro em Belo Horizonte. Atualmente sou <code>estudante</code> no cursos de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.
 </div>
 
+----
+
+-----
+
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
+
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td width="500px" >
+<div align="justify">
+<p> 
+- :mortar_board: Atualmente estou cursando <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> e estou no <code>4º período</code>.<br />
+- ☕: Curto muito <code>Java</code> e estou aprofundando meus conhecimentos em lógica, orientação a objetos e desenvolvimento backend.<br />
+- :rocket: Estou em busca do meu <code>primeiro estágio</code> na área de tecnologia para colocar em prática tudo o que venho aprendendo.<br />
+- :gear: Tenho interesse em bancos de dados, APIs REST, organização de código e boas práticas de desenvolvimento.<br />
+- 🚗: Sou fanático por <code>carros</code> e gosto de entender como as coisas funcionam — tanto motores quanto sistemas 😄.<br />
+- 📚: Sempre buscando evoluir como desenvolvedor, estudando e desenvolvendo projetos próprios.<br />
+- :speech_balloon: Pode me chamar para conversar sobre Java, tecnologia ou carros — adoro trocar ideia!<br />
+</p>
+</div>
+</td>
+<td>
+<div>
+<img 
+  alt="GIF" 
+  src="https://github.com/user-attachments/assets/7e2961e5-9304-4f24-a0aa-0f2e3ca8db83"
+  width="340px" 
+  height="650px" 
+/>
+</div>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+
+</div>
+
+
+
+-----
+
+
+
 -----
 
 
