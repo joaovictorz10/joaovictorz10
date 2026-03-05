@@ -54,44 +54,27 @@
 
 
 <div>
+<div>
+<img align="right" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
+</div>
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Um pouco sobre mim:
+<img height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
-<table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td width="500px" >
 <div align="justify">
-<p> 
- 
-- 🎓 Atualmente estou cursando <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> no <code>4º período</code>.<br />
+<p>
+- :mortar_board: Atualmente estou cursando <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> no <code>4º período</code>.<br />
 
-- ☕ Estou focando em desenvolvimento web, criando aplicações com Spring Boot, HTML, CSS e JavaScript.<br />
+- :coffee: Estou focando em desenvolvimento web, criando aplicações com Spring Boot, HTML, CSS e JavaScript.<br />
 
-- 🚀 Estou em busca do meu primeiro estágio na área de tecnologia para colocar em prática tudo o que venho aprendendo e ganhar experiência no mercado.<br />
+- :rocket: Estou em busca do meu primeiro estágio na área de tecnologia para colocar em prática tudo o que venho aprendendo e ganhar experiência no mercado.<br />
 
-- 🎮 Nas horas vagas, sou fã de jogos online (Counter Strike) e também curto muito acompanhar um bom futebol.<br />
+- :video_game: Nas horas vagas, sou fã de jogos online (Counter Strike) e também curto muito acompanhar um bom futebol.<br />
 
-- 💻 Sempre buscando evoluir como desenvolvedor, estruturando projetos próprios e aplicações full-stack do zero.<br />
+- :computer: Sempre buscando evoluir como desenvolvedor, estruturando projetos próprios e aplicações full-stack do zero.<br />
 
 - :soccer: Atleticano de corpo e alma, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-
 </p>
 </div>
-</td>
-<td>
-<div>
-<img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="340px" height="650px" />
-</div>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-
 </div>
 
 ----
