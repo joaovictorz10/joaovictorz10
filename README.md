@@ -55,7 +55,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
+<img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="340px" height="650px" />
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
