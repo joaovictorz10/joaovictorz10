@@ -61,7 +61,7 @@
 
 <div>
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Pouco sobre mim:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Um pouco sobre mim:
 
 <table>
 <tr>
@@ -71,7 +71,7 @@
 <td width="500px" >
 <div align="justify">
 <p> 
-- 🎓 Atualmente estou cursando <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> no <code>4º período</code>.<br />
+-🎓 Atualmente estou cursando <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> no <code>4º período</code>.<br />
 
 - ☕ Curto muito Java e estou focando em desenvolvimento web, criando aplicações com Spring Boot, HTML, CSS e JavaScript.<br />
 
