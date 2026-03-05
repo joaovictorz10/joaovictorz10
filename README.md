@@ -57,7 +57,9 @@
 
 <div>
 
+<div align="center">
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Um pouco sobre mim:
+</div>
 
 <table>
 <tr>
