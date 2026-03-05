@@ -73,13 +73,13 @@
 <p> 
 - 🎓 Atualmente estou cursando <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> no <code>4º período</code>.<br />
 
-- ☕ Curto muito Java e estou focando em desenvolvimento web, criando aplicações com Spring Boot, HTML, CSS e JavaScript.
+- ☕ Curto muito Java e estou focando em desenvolvimento web, criando aplicações com Spring Boot, HTML, CSS e JavaScript.<br />
 
-- 🚀 Estou em busca do meu primeiro estágio na área de tecnologia para colocar em prática tudo o que venho aprendendo e ganhar experiência no mercado.
+- 🚀 Estou em busca do meu primeiro estágio na área de tecnologia para colocar em prática tudo o que venho aprendendo e ganhar experiência no mercado.<br />
 
-- 🎮 Nas horas vagas, sou fã de jogos online(Counter Strike) também curto muito acompanhar um bom futebol.
+- 🎮 Nas horas vagas, sou fã de jogos online(Counter Strike) também curto muito acompanhar um bom futebol.<br />
 
-- 💻 Sempre buscando evoluir como desenvolvedor, estruturando projetos próprios e aplicações full-stack do zero.
+- 💻 Sempre buscando evoluir como desenvolvedor, estruturando projetos próprios e aplicações full-stack do zero.<br />
 
 - :soccer: Atleticano de corpo e alma, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
 </p>
