@@ -131,7 +131,19 @@ $$\   $$ |$$ /  $$ | $$$$$$$ |$$ /  $$ |       \$$\$$  / $$ |$$ /        $$ |   
 $$ |  $$ |$$ |  $$ |$$  __$$ |$$ |  $$ |        \$$$  /  $$ |$$ |        $$ |$$\ $$ |  $$ |$$ |      
 \$$$$$$  |\$$$$$$  |\$$$$$$$ |\$$$$$$  |         \$  /   $$ |\$$$$$$$\   \$$$$  |\$$$$$$  |$$ |      
  \______/  \______/  \_______| \______/           \_/    \__| \_______|   \____/  \______/ \__|
-```                                     
+```
+
+-----
+
+<!--
+<div>
+<img align="center" alt="Footer" width="1200px" height="20px" src="https://joaopauloaramuni.github.io/image/footer-gray.gif?raw=true"/>
+</div>
+-->
+
+<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0B0B0&section=footer"/>
+
+<!-- Obrigado pela visita! -->
                                                                                                         
                                                                                                         
                                                                                                         
