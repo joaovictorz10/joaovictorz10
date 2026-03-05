@@ -195,6 +195,11 @@
 
 ----
 
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=davii13&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.6&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=5)](https://nice-readme.vercel.app/top-langs)
+
+
+----
+
 <div align="center">
  <table>
   <tr>
