@@ -61,7 +61,7 @@
 
 <div>
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Pouco sobre mim:
 
 <table>
 <tr>
@@ -77,11 +77,11 @@
 
 - 🚀 Estou em busca do meu primeiro estágio na área de tecnologia para colocar em prática tudo o que venho aprendendo e ganhar experiência no mercado.
 
-- 🎮 Nas horas vagas, sou fã de jogos online (sempre tentando fugir do ping alto!) e também curto muito acompanhar um bom futebol ⚽.
+- 🎮 Nas horas vagas, sou fã de jogos online(Counter Strike) também curto muito acompanhar um bom futebol.
 
 - 💻 Sempre buscando evoluir como desenvolvedor, estruturando projetos próprios e aplicações full-stack do zero.
 
-- 💬 Pode me chamar para trocar ideia sobre Java, games, futebol ou tecnologia — adoro uma boa resenha e conhecer gente nova!
+- :soccer: Atleticano de corpo e alma, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
 </p>
 </div>
 </td>
