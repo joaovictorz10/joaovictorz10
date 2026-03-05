@@ -18,6 +18,8 @@
 <i><b>Olá</b> :wave:, sou o <code>João</code>, tenho 21 anos e moro em Belo Horizonte. Atualmente sou <code>estudante</code> no cursos de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.
 </div>
 
+🌐 Me encontre nas redes sociais aqui embaixo ⬇️
+
 <div align="center">
 <table>
 <tr>
