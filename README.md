@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B0B0B0&height=200&section=header&text=João%20Victor%20&fontSize=50&animation=fadeIn" />
   
+  <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B77BE&width=435&lines=Software+Engineer+in+Training;Full-Stack+Developer;//Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
