@@ -233,8 +233,76 @@
 
 ----
 
-[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=davii13&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.6&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=5)](https://nice-readme.vercel.app/top-langs)
+<table>
+<tr>
+ <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@joaovictorz10">WakaTime</a></td>
+</tr> 
+<tr>
+<td><img src="https://meuportifolio-ashy.vercel.app/api/wakatime?username=joaovictorz10&custom_title=Tempo+de+Código&card_width=466&layout=compact&display_format=time&theme=dark&v=4"
+                                                class="waka-img" alt="WakaTime" alt="WakaTime Stats" width="466" loading="lazy"/></td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=@henriquegdc&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegdc&theme=dark&locale=pt-br&langs_count=7"/> -->
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=henriquegdc&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
+</td>
+<td>
+<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegdc&layout=pie&theme=dark&locale=pt-br"/> -->
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=henriquegdc&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+</td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=henriquegdc&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
 
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=henriquegdc&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henriquegdc&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henriquegdc&theme=github_dark"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=henriquegdc&theme=github_dark&utcOffset=8"/>
+</td>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henriquegdc&theme=github_dark"/>
+</td>
+<td>
+<!-- <img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=joaopauloaramuni&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/> -->
+<img src="https://github-streak-stats-ruby.vercel.app/?user=henriquegdc&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de henriquegdc" width="466" height="194" loading="lazy" />
+
+<tr>
+ <td align="center" colspan="3"></td>
+</tr>
+
+</div>
+</div>
 
 ----
 
