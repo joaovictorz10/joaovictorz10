@@ -99,6 +99,9 @@
   <img src="https://img.shields.io/badge/status-buscando%20estágio-brightgreen?style=for-the-badge" alt="Status"/>
   <img src="https://img.shields.io/badge/localização-Belo%20Horizonte%2C%20MG-blue?style=for-the-badge&logo=google-maps" alt="BH"/>
   <img src="https://img.shields.io/badge/PUC%20Minas-4º%20Período-orange?style=for-the-badge" alt="PUC Minas"/>
+<a href="https://www.linkedin.com/in/joaovictor-russo" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-JoaoVictor-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 </p>
 
 
