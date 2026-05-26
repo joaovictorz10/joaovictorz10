@@ -6,7 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B77BE&center=true&vCenter=true&width=435&lines=Software+Engineer+in+Training;Full-Stack+Developer;//Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
-
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=davii13&color=blueviolet&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=davii13&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <img src="https://img.shields.io/badge/status-buscando%20estágio-brightgreen?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/localização-Belo%20Horizonte%2C%20MG-blue?style=for-the-badge&logo=google-maps" alt="BH"/>
+  <img src="https://img.shields.io/badge/PUC%20Minas-4º%20Período-orange?style=for-the-badge" alt="PUC Minas"/>
+</p>
 
 -----
 
